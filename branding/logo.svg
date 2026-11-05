@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 256 256" role="img" aria-labelledby="title desc"><title id="title">CityLens logo</title><desc id="desc">A location pin encloses a camera lens, framed by viewfinder corners.</desc><rect width="256" height="256" fill="#DDE9F1"/><g fill="none" stroke="#204964" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M56 89V65a9 9 0 0 1 9-9h24M167 56h24a9 9 0 0 1 9 9v24M200 167v24a9 9 0 0 1-9 9h-24M89 200H65a9 9 0 0 1-9-9v-24" opacity=".45"/>
+      </g><path d="M128 193c-10-14-49-48-49-81a49 49 0 1 1 98 0c0 33-39 67-49 81Z" fill="#204964"/>
+      <circle cx="128" cy="111" r="27" fill="#F5F5E9"/><circle cx="128" cy="111" r="17" fill="#79AAA9"/>
+      <circle cx="134" cy="105" r="7" fill="#F5F5E9"/><circle cx="192" cy="56" r="9" fill="#E1AF62"/></svg>
