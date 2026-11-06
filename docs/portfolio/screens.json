@@ -1,0 +1,23 @@
+[
+  {
+    "image": "screens/screen-01.png",
+    "editable": "screens/screen-01.svg",
+    "caption": "Camera-style discovery",
+    "kind": "recreated",
+    "source_commit": "e048865c04635b536b4b48224f633f8b993abd99",
+    "source_files": [
+      "components/city-lens/ar-camera-screen.tsx",
+      "app/globals.css"
+    ]
+  },
+  {
+    "image": "screens/screen-02.png",
+    "editable": "screens/screen-02.svg",
+    "caption": "Saved places",
+    "kind": "recreated",
+    "source_commit": "e048865c04635b536b4b48224f633f8b993abd99",
+    "source_files": [
+      "components/city-lens/saved-places-screen.tsx"
+    ]
+  }
+]
