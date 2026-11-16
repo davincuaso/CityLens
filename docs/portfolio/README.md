@@ -1,20 +1,7 @@
-# Portfolio screens
+# CityLens portfolio captures
 
-Prepared for the Davin Cuaso portfolio on 6 November 2026.
+Captured on November 16, 2026 from application source at 5a19cdf66d227a4427f27c8a0bd8e1e38416b4b1.
 
-These are source-based interface recreations with fictional sample data. They are not screenshots from a running native app or backend. Camera scenes and ingredient illustrations are schematic; measurements, saved places, and study statistics are sample content.
+These are browser screenshots of the real frontend components, not illustrated replicas. The React prototype uses simulated camera and map data. These are not captures from its native iOS implementation.
 
-The SVG files are editable masters; PNG files are opaque exports.
-
-## Camera-style discovery
-
-<img src="screens/screen-01.png" width="300" alt="Camera-style discovery">
-
-Source: [components/city-lens/ar-camera-screen.tsx](https://github.com/davincuaso/CityLens/blob/e048865c04635b536b4b48224f633f8b993abd99/components/city-lens/ar-camera-screen.tsx), [app/globals.css](https://github.com/davincuaso/CityLens/blob/e048865c04635b536b4b48224f633f8b993abd99/app/globals.css).
-
-## Saved places
-
-<img src="screens/screen-02.png" width="300" alt="Saved places">
-
-Source: [components/city-lens/saved-places-screen.tsx](https://github.com/davincuaso/CityLens/blob/e048865c04635b536b4b48224f633f8b993abd99/components/city-lens/saved-places-screen.tsx).
-
+See screens.json for dimensions, source revision, and capture setup. The prior hand-drawn SVG/PNG previews have been withdrawn because they did not faithfully represent the running interface.

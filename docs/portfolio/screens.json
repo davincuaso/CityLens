@@ -1,23 +1,33 @@
-[
-  {
-    "image": "screens/screen-01.png",
-    "editable": "screens/screen-01.svg",
-    "caption": "Camera-style discovery",
-    "kind": "recreated",
-    "source_commit": "e048865c04635b536b4b48224f633f8b993abd99",
-    "source_files": [
-      "components/city-lens/ar-camera-screen.tsx",
-      "app/globals.css"
-    ]
-  },
-  {
-    "image": "screens/screen-02.png",
-    "editable": "screens/screen-02.svg",
-    "caption": "Saved places",
-    "kind": "recreated",
-    "source_commit": "e048865c04635b536b4b48224f633f8b993abd99",
-    "source_files": [
-      "components/city-lens/saved-places-screen.tsx"
-    ]
-  }
-]
+{
+  "status": "source-rendered-captures",
+  "repository": "CityLens",
+  "sourceCommit": "5a19cdf66d227a4427f27c8a0bd8e1e38416b4b1",
+  "captured": "2026-11-16",
+  "method": "Browser captures of compiled repository components. Not redrawn screens.",
+  "captureAdaptations": [
+    "Static export/base path for HTTPS capture",
+    "Hosting toolbar and source-app analytics excluded"
+  ],
+  "screens": [
+    {
+      "src": "assets/screens/citylens/capture-01.webp",
+      "caption": "Web prototype — discovery view",
+      "label": "Rendered from application source",
+      "portrait": true,
+      "alt": "CityLens React discovery view with its simulated camera background and sample Singapore places.",
+      "width": 393,
+      "height": 852,
+      "sourceCommit": "5a19cdf66d227a4427f27c8a0bd8e1e38416b4b1"
+    },
+    {
+      "src": "assets/screens/citylens/capture-02.webp",
+      "caption": "Web prototype — spatial map",
+      "label": "Rendered from application source",
+      "portrait": true,
+      "alt": "The actual CityLens spatial-map component with tilted geometry, restaurant pins, and a nearby-places sheet.",
+      "width": 393,
+      "height": 852,
+      "sourceCommit": "5a19cdf66d227a4427f27c8a0bd8e1e38416b4b1"
+    }
+  ]
+}
